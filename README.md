@@ -1,2 +1,2 @@
 # Projects
-Proyectos que he ido realizando utilizando HTML y JavaScript
+Projects that i've been doing 
